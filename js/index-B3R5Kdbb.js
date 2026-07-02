@@ -16052,7 +16052,7 @@ function hD(e, t) {
 }
 const pD = {
         en: {
-            "hero.subtitle": "We are getting married",
+            "hero.subtitle": "We are getting engaged",
             "hero.date": "01 July 2027",
             "hero.rsvp": "RSVP",
             "countdown.title": "Countdown",
@@ -22136,7 +22136,7 @@ function p5({
                 }), " Esraa"]
             }), h.jsxs("p", {
                 className: "font-body md:text-xs tracking-[0.2em] uppercase text-primary max-w-[260px] md:max-w-xs leading-snug text-[11px] font-medium",
-                children: ["INVITE YOU TO CELEBRATE ", h.jsx("br", {}), "OUR ENGAGEMENT WEEK"]
+                children: ["INVITE YOU TO CELEBRATE ", h.jsx("br", {}), "OUR ENGAGEMENT"]
             }), h.jsx("p", {
                 className: "font-body text-[11px] md:text-sm tracking-[0.35em] uppercase text-primary mt-3 font-medium",
                 children: "in"
@@ -32495,7 +32495,7 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
                     className: "relative px-2 py-2",
                     children: [h.jsx("p", {
                         className: "font-body font-semibold text-[12px] md:text-base tracking-[0.35em] uppercase text-primary mb-5 [text-shadow:_0_1px_6px_rgba(71,84,58,0.55),_0_0_14px_rgba(71,84,58,0.35)]",
-                        children: "We're getting married"
+                        children: "We're getting engaged"
                     }), h.jsxs("h2", {
                         className: "font-display font-normal text-6xl md:text-7xl leading-[0.95] text-primary [text-shadow:_0_1px_8px_rgba(71,84,58,0.6),_0_0_22px_rgba(71,84,58,0.4)]",
                         children: ["Abdelhamed ", h.jsx("span", {
