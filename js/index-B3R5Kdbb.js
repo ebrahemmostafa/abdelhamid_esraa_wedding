@@ -16073,12 +16073,12 @@ const pD = {
             "events.cruiseDate": "28 June 2027",
             "events.cruiseTime": "6:30 PM",
             "events.cruiseDetail": "Departing from The Peninsula Private Quay",
-            "events.weddingLabel": "Wedding",
-            "events.weddingName1": "The Peninsula",
-            "events.weddingName2": "Hotel Istanbul",
-            "events.weddingDate": "01 July 2027",
-            "events.weddingTime": "6:00 PM",
-            "program.sectionTitle": "Wedding Weekend",
+            "events.engagementLabel": "Engagement",
+            "events.engagementName1": "The Peninsula",
+            "events.engagementName2": "Hotel Istanbul",
+            "events.engagementDate": "01 July 2027",
+            "events.engagementTime": "6:00 PM",
+            "program.sectionTitle": "Engagement Weekend",
             "program.sectionSubtitle": "Itinerary",
             "program.sectionDates": "28 June – 01 July 2027",
             "program.cruiseTitle": "Welcome Cruise",
@@ -16089,28 +16089,28 @@ const pD = {
             "program.cruiseDepart": "Departure from The Peninsula Private Quay",
             "program.cruiseCocktails": "Sunset Cocktails & Hors d'Œuvres",
             "program.cruiseArrival": "Arrival at The Peninsula Private Quay",
-            "program.weddingTitle": "Wedding",
-            "program.weddingDate": "01 July 2027 · The Peninsula Hotel Istanbul",
-            "program.weddingArrival": "Arrival & Welcome Drinks",
-            "program.weddingCeremony": "Ceremony",
-            "program.weddingBanquet": "Banquet",
-            "program.weddingParty": "Party",
-            "program.weddingAfterParty": "After Party",
+            "program.engagementTitle": "Engagement",
+            "program.engagementDate": "01 July 2027 · The Peninsula Hotel Istanbul",
+            "program.engagementArrival": "Arrival & Welcome Drinks",
+            "program.engagementCeremony": "Ceremony",
+            "program.engagementBanquet": "Banquet",
+            "program.engagementParty": "Party",
+            "program.engagementAfterParty": "After Party",
             "dress.title": "Dress Code",
             "dress.subtitle": "Black Tie",
             "dress.cruiseTitle": "Welcome Cruise",
             "dress.cruiseDate": "28th June",
             "dress.cruiseAttire": "White Cocktail Attire",
-            "dress.weddingTitle": "Wedding",
-            "dress.weddingDate": "1st July",
-            "dress.weddingAttire": "Black Tie",
+            "dress.engagementTitle": "Engagement",
+            "dress.engagementDate": "1st July",
+            "dress.engagementAttire": "Black Tie",
             "dress.men": "Gentlemen",
             "dress.menDesc": "Black tie formal attire",
             "dress.women": "Ladies",
             "dress.womenDesc": "Formal evening gown",
             "accommodation.title": "Where to Stay",
             "accommodation.subtitle": "Recommended hotels near the venue",
-            "accommodation.recommend": "Kindly mention the wedding of Abdelhamed & Esraa when booking to enquire about any preferential rates.",
+            "accommodation.recommend": "Kindly mention the engagement of Abdelhamed & Esraa when booking to enquire about any preferential rates.",
             "accommodation.perNight": "per night · double standard room · incl. taxes & breakfast",
             "accommodation.bookingSoon": "Booking link coming soon",
             "accommodation.bookingEmail": "Booking via email – details coming soon",
@@ -16141,7 +16141,7 @@ From Sabiha Gökçen Airport (SAW): approximately 1 hour`,
             "transport.privateTransfer": "Private Transfer",
             "transport.address": "Address",
             "transport.fullAddress": "The Peninsula Istanbul, Kemankeş Karamustafa Paşa, Karaköy, Istanbul, Turkey",
-            "gifts.title": "Wedding Gift",
+            "gifts.title": "Engagement Gift",
             "gifts.text": "Your presence is our greatest gift.",
             "gifts.details": "If you wish to honour us with a gift, we kindly prefer monetary contributions. Bank details will be shared separately.",
             "gifts.account1": "Account — Abdelhamed",
@@ -16167,7 +16167,7 @@ BIC/SWIFT: XXXXXXXXXX`,
             "rsvp.dietaryPlaceholder": "e.g. vegetarian, allergies, etc.",
             "rsvp.whichEvents": "Which events will you be attending? *",
             "rsvp.eventCruise": "Welcome Cruise – 28th June",
-            "rsvp.eventWedding": "Wedding Ceremony & Reception – 1st July",
+            "rsvp.eventEngagement": "Engagement Ceremony & Reception – 1st July",
             "rsvp.foodAllergies": "Dietary requirements / Food allergies",
             "rsvp.foodAllergiesPlaceholder": "e.g. nut allergy, gluten-free, vegetarian...",
             "rsvp.childrenQuestion": "Will any children be accompanying you?",
@@ -16214,12 +16214,12 @@ BIC/SWIFT: XXXXXXXXXX`,
             "events.cruiseDate": "28. Juni 2027",
             "events.cruiseTime": "18:30 Uhr",
             "events.cruiseDetail": "Abfahrt vom The Peninsula Private Quay",
-            "events.weddingLabel": "Hochzeit",
-            "events.weddingName1": "The Peninsula",
-            "events.weddingName2": "Hotel Istanbul",
-            "events.weddingDate": "01. Juli 2027",
-            "events.weddingTime": "18:00 Uhr",
-            "program.sectionTitle": "Hochzeitswochenende",
+            "events.engagementLabel": "Verlobung",
+            "events.engagementName1": "The Peninsula",
+            "events.engagementName2": "Hotel Istanbul",
+            "events.engagementDate": "01. Juli 2027",
+            "events.engagementTime": "18:00 Uhr",
+            "program.sectionTitle": "Verlobungswochenende",
             "program.sectionSubtitle": "Ablauf",
             "program.sectionDates": "28. Juni – 01. Juli 2027",
             "program.cruiseTitle": "Willkommensfahrt",
@@ -16230,28 +16230,28 @@ BIC/SWIFT: XXXXXXXXXX`,
             "program.cruiseDepart": "Abfahrt vom The Peninsula Private Quay",
             "program.cruiseCocktails": "Sonnenuntergangs-Cocktails & Häppchen",
             "program.cruiseArrival": "Ankunft am The Peninsula Private Quay",
-            "program.weddingTitle": "Hochzeit",
-            "program.weddingDate": "01. Juli 2027 · The Peninsula Hotel Istanbul",
-            "program.weddingArrival": "Empfang & Begrüßungsgetränke",
-            "program.weddingCeremony": "Trauung",
-            "program.weddingBanquet": "Festbankett",
-            "program.weddingParty": "Feier",
-            "program.weddingAfterParty": "After Party",
+            "program.engagementTitle": "Verlobung",
+            "program.engagementDate": "01. Juli 2027 · The Peninsula Hotel Istanbul",
+            "program.engagementArrival": "Empfang & Begrüßungsgetränke",
+            "program.engagementCeremony": "Trauung",
+            "program.engagementBanquet": "Festbankett",
+            "program.engagementParty": "Feier",
+            "program.engagementAfterParty": "After Party",
             "dress.title": "Kleiderordnung",
             "dress.subtitle": "Black Tie",
             "dress.cruiseTitle": "Willkommensfahrt",
             "dress.cruiseDate": "28. Juni",
             "dress.cruiseAttire": "Weiße Cocktail-Garderobe",
-            "dress.weddingTitle": "Hochzeit",
-            "dress.weddingDate": "01. Juli",
-            "dress.weddingAttire": "Black Tie",
+            "dress.engagementTitle": "Verlobung",
+            "dress.engagementDate": "01. Juli",
+            "dress.engagementAttire": "Black Tie",
             "dress.men": "Herren",
             "dress.menDesc": "Formelle Abendgarderobe",
             "dress.women": "Damen",
             "dress.womenDesc": "Formelles Abendkleid",
             "accommodation.title": "Unterkünfte",
             "accommodation.subtitle": "Empfohlene Hotels in der Nähe des Veranstaltungsortes",
-            "accommodation.recommend": "Bitte erwähnen Sie bei der Buchung die Hochzeit von Abdelhamed & Esraa, um nach Sonderkonditionen zu fragen.",
+            "accommodation.recommend": "Bitte erwähnen Sie bei der Buchung die Verlobung von Abdelhamed & Esraa, um nach Sonderkonditionen zu fragen.",
             "accommodation.perNight": "pro Nacht · Doppelzimmer Standard · inkl. Steuern & Frühstück",
             "accommodation.bookingSoon": "Buchungslink folgt in Kürze",
             "accommodation.bookingEmail": "Buchung per E-Mail – Details folgen in Kürze",
@@ -16282,7 +16282,7 @@ Vom Flughafen Sabiha Gökçen (SAW): ca. 1 Stunde`,
             "transport.privateTransfer": "Privater Transfer",
             "transport.address": "Adresse",
             "transport.fullAddress": "The Peninsula Istanbul, Kemankeş Karamustafa Paşa, Karaköy, Istanbul, Türkei",
-            "gifts.title": "Hochzeitsgeschenk",
+            "gifts.title": "Verlobungsgeschenk",
             "gifts.text": "Ihre Anwesenheit ist unser schönstes Geschenk.",
             "gifts.details": "Sollten Sie uns dennoch mit einem Geschenk beehren wollen, freuen wir uns über einen Geldbeitrag. Bankdaten werden separat mitgeteilt.",
             "gifts.account1": "Konto — Abdelhamed",
@@ -16308,7 +16308,7 @@ BIC/SWIFT: XXXXXXXXXX`,
             "rsvp.dietaryPlaceholder": "z. B. vegetarisch, Allergien usw.",
             "rsvp.whichEvents": "An welchen Veranstaltungen werden Sie teilnehmen? *",
             "rsvp.eventCruise": "Willkommensfahrt – 28. Juni",
-            "rsvp.eventWedding": "Trauung & Empfang – 01. Juli",
+            "rsvp.eventEngagement": "Trauung & Empfang – 01. Juli",
             "rsvp.foodAllergies": "Ernährungsbesonderheiten / Lebensmittelallergien",
             "rsvp.foodAllergiesPlaceholder": "z. B. Nussallergie, glutenfrei, vegetarisch...",
             "rsvp.childrenQuestion": "Werden Kinder Sie begleiten?",
@@ -22136,7 +22136,7 @@ function p5({
                 }), " Esraa"]
             }), h.jsxs("p", {
                 className: "font-body md:text-xs tracking-[0.2em] uppercase text-primary max-w-[260px] md:max-w-xs leading-snug text-[11px] font-medium",
-                children: ["INVITE YOU TO CELEBRATE ", h.jsx("br", {}), "OUR WEDDING WEEK"]
+                children: ["INVITE YOU TO CELEBRATE ", h.jsx("br", {}), "OUR ENGAGEMENT WEEK"]
             }), h.jsx("p", {
                 className: "font-body text-[11px] md:text-sm tracking-[0.35em] uppercase text-primary mt-3 font-medium",
                 children: "in"
@@ -22603,11 +22603,11 @@ const l3 = "2dcf5ad4-79dd-4a9b-89aa-c10ee9239b45",
     L3 = "d8333207-9552-428c-8f4a-54a6fa7bbb64",
     F3 = "image/png",
     V3 = "2026-06-06T17:27:33Z",
-    B3 = "wedding-day-altar.png",
+    B3 = "engagement-day-altar.png",
     U3 = "468e6815-3729-4bb3-a56d-9c8683062112",
-    z3 = "a/v1/468e6815-3729-4bb3-a56d-9c8683062112/d8333207-9552-428c-8f4a-54a6fa7bbb64/wedding-day-altar.png",
+    z3 = "a/v1/468e6815-3729-4bb3-a56d-9c8683062112/d8333207-9552-428c-8f4a-54a6fa7bbb64/engagement-day-altar.png",
     W3 = 2300518,
-    H3 = "./assets/l5e-images/wedding-day-altar.png",
+    H3 = "./assets/l5e-images/engagement-day-altar.png",
     K3 = 1,
     G3 = {
         asset_id: L3,
@@ -22630,7 +22630,7 @@ function q3() {
             label: "Engagement Party",
             date: "Kinan Sentral · 29 June 2027 · 4.30pm"
         }, {
-            label: "Wedding Day",
+            label: "Engagement Day",
             date: "Venue to be revealed · 01 July 2027"
         }];
     return h.jsxs("section", {
@@ -22712,7 +22712,7 @@ function q3() {
                         alt: "",
                         loading: "lazy",
                         className: "mx-auto w-40 md:w-48 h-auto mb-4 pointer-events-none select-none"
-                    }), n.label === "Wedding Day" && h.jsx(ut, {
+                    }), n.label === "Engagement Day" && h.jsx(ut, {
                         src: G3.url,
                         alt: "",
                         loading: "lazy",
@@ -23016,7 +23016,7 @@ const X3 = "59cfe8ac-5463-4f24-bd50-46c0508ad4ee",
             img: oF.url
         }]
     }, {
-        title: "Wedding",
+        title: "Engagement",
         date: "1st July 2027",
         attire: "Soft Coastal Palette",
         palette: [{
@@ -23187,7 +23187,7 @@ function wF() {
                     delay: .1
                 },
                 className: "font-body text-foreground/70 leading-relaxed max-w-md mx-auto mb-10",
-                children: "Transportation and accommodation throughout the wedding celebrations will be lovingly hosted by the couple."
+                children: "Transportation and accommodation throughout the engagement celebrations will be lovingly hosted by the couple."
             }), h.jsxs(he.div, {
                 initial: {
                     opacity: 0,
@@ -31612,7 +31612,7 @@ function BU({
     attendance: e,
     name1: t,
     name2: n,
-    weddingDate: r,
+    engagementDate: r,
     venueLocation: s
 }) {
     const {
@@ -31657,8 +31657,8 @@ function BU({
         }
     }, [e, c]);
     const y = () => {
-        const v = `Wedding ${t} & ${n}`,
-            w = `Wedding of ${t} and ${n}`,
+        const v = `Engagement ${t} & ${n}`,
+            w = `Engagement of ${t} and ${n}`,
             _ = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(v)}&dates=20270628/20270702&location=${encodeURIComponent(s)}&details=${encodeURIComponent(w)}`;
         window.open(_, "_blank")
     };
@@ -31825,7 +31825,7 @@ function BU({
 const tc = {
     couple_name_1: "Abdelhamed",
     couple_name_2: "Esraa",
-    wedding_date: "2027-07-01",
+    engagement_date: "2027-07-01",
     venue_location: "Istanbul, Turkey"
 };
 
@@ -31842,8 +31842,8 @@ function UU() {
         label: "Engagement Celebration — 29 June 2027",
         hasAllergies: !0
     }, {
-        id: "wedding",
-        label: "Wedding Day — 01 July 2027",
+        id: "engagement",
+        label: "Engagement Day — 01 July 2027",
         hasAllergies: !0
     }], [n, r] = m.useState(!1), [s, i] = m.useState(1), [o, a] = m.useState("no"), [l, c] = m.useState(0), [u, d] = m.useState([]), [f, p] = m.useState([]), [b, g] = m.useState([{
         name: "",
@@ -31919,7 +31919,7 @@ function UU() {
         attendance: x.attendance,
         name1: tc.couple_name_1,
         name2: tc.couple_name_2,
-        weddingDate: tc.wedding_date,
+        engagementDate: tc.engagement_date,
         venueLocation: tc.venue_location
     }) : h.jsx("section", {
         id: "rsvp",
@@ -32532,7 +32532,7 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
         couple_name_2: "Esraa",
         hero_name_1: "Abdelhamed",
         hero_name_2: "Esraa",
-        wedding_date: "2027-07-01",
+        engagement_date: "2027-07-01",
         venue_name: "Vaavu Fulidhoo, Maldives",
         venue_address: "Vaavu Fulidhoo, Maldives"
     },
@@ -32561,7 +32561,7 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
                 children: [h.jsx(p5, {
                     name1: vs.hero_name_1,
                     name2: vs.hero_name_2,
-                    date: vs.wedding_date,
+                    date: vs.engagement_date,
                     playVideo: n,
                     showText: s,
                     onVideoEnded: () => a(!1)
@@ -32585,7 +32585,7 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
                         }), h.jsx("div", {
                             className: "relative z-10 pt-8",
                             children: h.jsx(o3, {
-                                targetDate: vs.wedding_date
+                                targetDate: vs.engagement_date
                             })
                         })]
                     }), h.jsx(wf, {
@@ -32608,7 +32608,7 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
                 }), h.jsx(ZU, {
                     name1: vs.couple_name_1,
                     name2: vs.couple_name_2,
-                    date: vs.wedding_date
+                    date: vs.engagement_date
                 })]
             }), c && h.jsx(H5, {
                 isMuted: l,
@@ -32701,7 +32701,7 @@ function W9() {
                     children: "Admin Dashboard"
                 }), h.jsx("p", {
                     className: "text-muted-foreground",
-                    children: "Manage your wedding invitation"
+                    children: "Manage your engagement invitation"
                 })]
             }), h.jsxs("form", {
                 onSubmit: f,
@@ -35389,8 +35389,8 @@ function G7() {
             id: "engagement",
             label: "Engagement Celebration — 29 June"
         }, {
-            id: "wedding",
-            label: "Wedding Day — 01 July"
+            id: "engagement",
+            label: "Engagement Day — 01 July"
         }].map(N => {
             const $ = j.filter(P => {
                 var A;
@@ -35433,7 +35433,7 @@ function G7() {
                 }),
                 I = URL.createObjectURL(A),
                 K = document.createElement("a");
-            K.href = I, K.download = `wedding-guests-${new Date().toISOString().split("T")[0]}.csv`, K.click()
+            K.href = I, K.download = `engagement-guests-${new Date().toISOString().split("T")[0]}.csv`, K.click()
         }, G = N => N ? new Date(N).toLocaleDateString("en-GB", {
             day: "numeric",
             month: "short",
