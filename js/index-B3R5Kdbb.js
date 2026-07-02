@@ -16062,20 +16062,20 @@ const pD = {
             "countdown.minutes": "Minutes",
             "countdown.seconds": "Seconds",
             "welcome.title": "Welcome",
-            "welcome.text": "Together with their families, Abdelhamed and Esraa request the honour of your presence at the celebration of their marriage in the beautiful city of Istanbul, Turkey.",
+            "welcome.text": "Together with their families, Abdelhamed and Esraa request the honour of your presence at the celebration of their marriage in the beautiful city of VIP HALL The Great Sea Street.",
             "events.title": "The Celebrations",
             "events.subtitle": "Programme of events",
             "events.date": "Sunday 26 July 2026",
             "events.openMaps": "View on Map",
             "events.cruiseLabel": "Welcome Cruise on the Bosphorus",
-            "events.cruiseName1": "The Peninsula",
-            "events.cruiseName2": "Private Quay",
+            "events.cruiseName1": "VIP HALL",
+            "events.cruiseName2": "The Great Sea Street",
             "events.cruiseDate": "Sunday 26 July 2026",
             "events.cruiseTime": "6:30 PM",
-            "events.cruiseDetail": "Departing from The Peninsula Private Quay",
+            "events.cruiseDetail": "Departing from VIP HALL The Great Sea Street",
             "events.engagementLabel": "Engagement",
-            "events.engagementName1": "The Peninsula",
-            "events.engagementName2": "Hotel Istanbul",
+            "events.engagementName1": "VIP HALL",
+            "events.engagementName2": "The Great Sea Street",
             "events.engagementDate": "Sunday 26 July 2026",
             "events.engagementTime": "8:00 PM",
             "program.sectionTitle": "Engagement Weekend",
@@ -16086,11 +16086,11 @@ const pD = {
             "program.cruiseDate": "Sunday 26 July 2026",
             "program.cruiseDesc": "Please join us for cocktails and hors d'œuvres as we sail the Bosphorus",
             "program.cruiseSubdesc": "",
-            "program.cruiseDepart": "Departure from The Peninsula Private Quay",
+            "program.cruiseDepart": "Departure from VIP HALL The Great Sea Street",
             "program.cruiseCocktails": "Sunset Cocktails & Hors d'Œuvres",
-            "program.cruiseArrival": "Arrival at The Peninsula Private Quay",
+            "program.cruiseArrival": "Arrival at VIP HALL The Great Sea Street",
             "program.engagementTitle": "Engagement",
-            "program.engagementDate": "Sunday 26 July 2026 · The Peninsula Hotel Istanbul",
+            "program.engagementDate": "Sunday 26 July 2026 · VIP HALL The Great Sea Street",
             "program.engagementArrival": "Arrival & Welcome Drinks",
             "program.engagementCeremony": "Ceremony",
             "program.engagementBanquet": "Banquet",
@@ -16118,12 +16118,12 @@ const pD = {
             "info.subtitle": "You are cordially invited to join us for cocktails and hors d'œuvres as we sail the Bosphorus.",
             "info.event1": "Welcome Cruise",
             "info.event1date": "Monday | Sunday 26 July 2026 | 20:00",
-            "info.event1location": "The Peninsula Private Quay, Istanbul",
+            "info.event1location": "VIP HALL The Great Sea Street",
             "info.event2date": "",
             "info.event2location": "",
             "transport.title": "Location & Travel",
             "transport.subtitle": "Directions to the venue",
-            "transport.overview": "The celebrations will take place at The Peninsula Hotel Istanbul, situated on the banks of the Bosphorus in the historic quarter of Karaköy.",
+            "transport.overview": "The celebrations will take place at VIP HALL The Great Sea Street, situated on the banks of the Bosphorus in the historic quarter of Karaköy.",
             "transport.byCar": "By Motor Car",
             "transport.byCarDetails": `From Istanbul Airport (IST): approximately 45 minutes
 From Sabiha Gökçen Airport (SAW): approximately 1 hour`,
@@ -16140,7 +16140,7 @@ From Sabiha Gökçen Airport (SAW): approximately 1 hour`,
             "transport.taxiRegion2": "Greater Istanbul",
             "transport.privateTransfer": "Private Transfer",
             "transport.address": "Address",
-            "transport.fullAddress": "The Peninsula Istanbul, Kemankeş Karamustafa Paşa, Karaköy, Istanbul, Turkey",
+            "transport.fullAddress": "The Peninsula Istanbul, Kemankeş Karamustafa Paşa, Karaköy, VIP HALL The Great Sea Street",
             "gifts.title": "Engagement Gift",
             "gifts.text": "Your presence is our greatest gift.",
             "gifts.details": "If you wish to honour us with a gift, we kindly prefer monetary contributions. Bank details will be shared separately.",
@@ -16203,20 +16203,20 @@ BIC/SWIFT: XXXXXXXXXX`,
             "countdown.minutes": "Minuten",
             "countdown.seconds": "Sekunden",
             "welcome.title": "Willkommen",
-            "welcome.text": "Gemeinsam mit ihren Familien laden Abdelhamed und Esraa Sie herzlich ein, die Feier ihrer Vermählung in der wunderschönen Stadt Istanbul, Türkei, mit ihnen zu begehen.",
+            "welcome.text": "Gemeinsam mit ihren Familien laden Abdelhamed und Esraa Sie herzlich ein, die Feier ihrer Vermählung in der wunderschönen Stadt VIP HALL The Great Sea Street, mit ihnen zu begehen.",
             "events.title": "Die Feierlichkeiten",
             "events.subtitle": "Programm der Veranstaltungen",
             "events.date": "Sonntag, 26. Juli 2026",
             "events.openMaps": "Auf Karte anzeigen",
             "events.cruiseLabel": "Willkommensfahrt auf dem Bosporus",
-            "events.cruiseName1": "The Peninsula",
-            "events.cruiseName2": "Private Quay",
+            "events.cruiseName1": "VIP HALL",
+            "events.cruiseName2": "The Great Sea Street",
             "events.cruiseDate": "Sonntag, 26. Juli 2026",
             "events.cruiseTime": "20:00 Uhr",
-            "events.cruiseDetail": "Abfahrt vom The Peninsula Private Quay",
+            "events.cruiseDetail": "Abfahrt vom VIP HALL The Great Sea Street",
             "events.engagementLabel": "Verlobung",
-            "events.engagementName1": "The Peninsula",
-            "events.engagementName2": "Hotel Istanbul",
+            "events.engagementName1": "VIP HALL",
+            "events.engagementName2": "The Great Sea Street",
             "events.engagementDate": "Sonntag, 26. Juli 2026",
             "events.engagementTime": "20:00 Uhr",
             "program.sectionTitle": "Verlobungswochenende",
@@ -16227,11 +16227,11 @@ BIC/SWIFT: XXXXXXXXXX`,
             "program.cruiseDate": "Sonntag, 26. Juli 2026",
             "program.cruiseDesc": "Begleiten Sie uns zu Cocktails und Häppchen auf unserer Fahrt über den Bosporus",
             "program.cruiseSubdesc": "",
-            "program.cruiseDepart": "Abfahrt vom The Peninsula Private Quay",
+            "program.cruiseDepart": "Abfahrt vom VIP HALL The Great Sea Street",
             "program.cruiseCocktails": "Sonnenuntergangs-Cocktails & Häppchen",
-            "program.cruiseArrival": "Ankunft am The Peninsula Private Quay",
+            "program.cruiseArrival": "Ankunft am VIP HALL The Great Sea Street",
             "program.engagementTitle": "Verlobung",
-            "program.engagementDate": "Sonntag, 26. Juli 2026 · The Peninsula Hotel Istanbul",
+            "program.engagementDate": "Sonntag, 26. Juli 2026 · VIP HALL The Great Sea Street",
             "program.engagementArrival": "Empfang & Begrüßungsgetränke",
             "program.engagementCeremony": "Trauung",
             "program.engagementBanquet": "Festbankett",
@@ -16259,12 +16259,12 @@ BIC/SWIFT: XXXXXXXXXX`,
             "info.subtitle": "Sie sind herzlich eingeladen, bei Cocktails und Häppchen mit uns über den Bosporus zu segeln.",
             "info.event1": "Willkommensfahrt",
             "info.event1date": "Montag | Sonntag, 26. Juli 2026 | 20:00 Uhr",
-            "info.event1location": "The Peninsula Private Quay, Istanbul",
+            "info.event1location": "VIP HALL The Great Sea Street",
             "info.event2date": "",
             "info.event2location": "",
             "transport.title": "Anreise & Lage",
             "transport.subtitle": "Wegbeschreibung zum Veranstaltungsort",
-            "transport.overview": "Die Feierlichkeiten finden im The Peninsula Hotel Istanbul statt, gelegen am Ufer des Bosporus im historischen Viertel Karaköy.",
+            "transport.overview": "Die Feierlichkeiten finden im VIP HALL The Great Sea Street statt, gelegen am Ufer des Bosporus im historischen Viertel Karaköy.",
             "transport.byCar": "Mit dem Auto",
             "transport.byCarDetails": `Vom Flughafen Istanbul (IST): ca. 45 Minuten
 Vom Flughafen Sabiha Gökçen (SAW): ca. 1 Stunde`,
@@ -16281,7 +16281,7 @@ Vom Flughafen Sabiha Gökçen (SAW): ca. 1 Stunde`,
             "transport.taxiRegion2": "Großraum Istanbul",
             "transport.privateTransfer": "Privater Transfer",
             "transport.address": "Adresse",
-            "transport.fullAddress": "The Peninsula Istanbul, Kemankeş Karamustafa Paşa, Karaköy, Istanbul, Türkei",
+            "transport.fullAddress": "The Peninsula Istanbul, Kemankeş Karamustafa Paşa, Karaköy, VIP HALL The Great Sea Street",
             "gifts.title": "Verlobungsgeschenk",
             "gifts.text": "Ihre Anwesenheit ist unser schönstes Geschenk.",
             "gifts.details": "Sollten Sie uns dennoch mit einem Geschenk beehren wollen, freuen wir uns über einen Geldbeitrag. Bankdaten werden separat mitgeteilt.",
@@ -22142,7 +22142,7 @@ function p5({
                 children: "in"
             }), h.jsx("p", {
                 className: "font-display md:text-4xl text-primary mt-1 text-3xl leading-none",
-                children: "Vaavu Fulidhoo, Maldives"
+                children: "VIP HALL The Great Sea Street"
             }), h.jsxs("div", {
                 className: "flex items-center justify-center gap-3 mt-3 text-primary",
                 children: [h.jsxs("div", {
@@ -22625,10 +22625,10 @@ function q3() {
     const e = m.useRef(null),
         t = [{
             label: "Welcome Dinner",
-            date: "Fulidhoo Beach · Sunday 26 July 2026 · 8:00 pm"
+            date: "VIP HALL The Great Sea Street · Sunday 26 July 2026 · 8:00 pm"
         }, {
             label: "Engagement Party",
-            date: "Kinan Sentral · Sunday 26 July 2026 · 8:00 pm"
+            date: "VIP HALL The Great Sea Street · Sunday 26 July 2026 · 8:00 pm"
         }, {
             label: "Engagement Day",
             date: "Venue to be revealed · Sunday 26 July 2026"
@@ -23215,7 +23215,7 @@ function wF() {
                     }), "entral"]
                 }), h.jsx("p", {
                     className: "font-body text-foreground/60 italic tracking-wide mt-2",
-                    children: "Vaavu Fulidhoo, Maldives"
+                    children: "VIP HALL The Great Sea Street"
                 }), h.jsx(ut, {
                     src: yF.url,
                     alt: "Kinan Hotels illustration",
@@ -31826,7 +31826,7 @@ const tc = {
     couple_name_1: "Abdelhamed",
     couple_name_2: "Esraa",
     engagement_date: "2026-07-26T20:00:00",
-    venue_location: "Istanbul, Turkey"
+    venue_location: "VIP HALL The Great Sea Street"
 };
 
 function UU() {
@@ -32524,8 +32524,8 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
         hero_name_1: "Abdelhamed",
         hero_name_2: "Esraa",
         engagement_date: "2026-07-26T20:00:00",
-        venue_name: "Vaavu Fulidhoo, Maldives",
-        venue_address: "Vaavu Fulidhoo, Maldives"
+        venue_name: "VIP HALL The Great Sea Street",
+        venue_address: "VIP HALL The Great Sea Street"
     },
     wf = ({
         className: e = ""
