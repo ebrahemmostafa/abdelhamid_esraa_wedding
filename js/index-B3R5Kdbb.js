@@ -31825,7 +31825,7 @@ function BU({
 const tc = {
     couple_name_1: "Abdelhamed",
     couple_name_2: "Esraa",
-    engagement_date: "2026-07-26",
+    engagement_date: "2026-07-26T20:00:00",
     venue_location: "Istanbul, Turkey"
 };
 
@@ -32523,7 +32523,7 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
         couple_name_2: "Esraa",
         hero_name_1: "Abdelhamed",
         hero_name_2: "Esraa",
-        engagement_date: "2026-07-26",
+        engagement_date: "2026-07-26T20:00:00",
         venue_name: "Vaavu Fulidhoo, Maldives",
         venue_address: "Vaavu Fulidhoo, Maldives"
     },
