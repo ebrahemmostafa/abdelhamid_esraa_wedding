@@ -16062,7 +16062,7 @@ const pD = {
             "countdown.minutes": "Minutes",
             "countdown.seconds": "Seconds",
             "welcome.title": "Welcome",
-            "welcome.text": "Together with their families, Rosie and Scott request the honour of your presence at the celebration of their marriage in the beautiful city of Istanbul, Turkey.",
+            "welcome.text": "Together with their families, Abdelhamed and Esraa request the honour of your presence at the celebration of their marriage in the beautiful city of Istanbul, Turkey.",
             "events.title": "The Celebrations",
             "events.subtitle": "Programme of events",
             "events.date": "01 July 2027",
@@ -16110,7 +16110,7 @@ const pD = {
             "dress.womenDesc": "Formal evening gown",
             "accommodation.title": "Where to Stay",
             "accommodation.subtitle": "Recommended hotels near the venue",
-            "accommodation.recommend": "Kindly mention the wedding of Rosie & Scott when booking to enquire about any preferential rates.",
+            "accommodation.recommend": "Kindly mention the wedding of Abdelhamed & Esraa when booking to enquire about any preferential rates.",
             "accommodation.perNight": "per night · double standard room · incl. taxes & breakfast",
             "accommodation.bookingSoon": "Booking link coming soon",
             "accommodation.bookingEmail": "Booking via email – details coming soon",
@@ -16144,10 +16144,10 @@ From Sabiha Gökçen Airport (SAW): approximately 1 hour`,
             "gifts.title": "Wedding Gift",
             "gifts.text": "Your presence is our greatest gift.",
             "gifts.details": "If you wish to honour us with a gift, we kindly prefer monetary contributions. Bank details will be shared separately.",
-            "gifts.account1": "Account — Rosie",
+            "gifts.account1": "Account — Abdelhamed",
             "gifts.account1details": `IBAN: XXXX XXXX XXXX XXXX XXXX
 BIC/SWIFT: XXXXXXXXXX`,
-            "gifts.account2": "Account — Scott",
+            "gifts.account2": "Account — Esraa",
             "gifts.account2details": `IBAN: XXXX XXXX XXXX XXXX XXXX
 BIC/SWIFT: XXXXXXXXXX`,
             "rsvp.title": "Rsvp",
@@ -16203,7 +16203,7 @@ BIC/SWIFT: XXXXXXXXXX`,
             "countdown.minutes": "Minuten",
             "countdown.seconds": "Sekunden",
             "welcome.title": "Willkommen",
-            "welcome.text": "Gemeinsam mit ihren Familien laden Rosie und Scott Sie herzlich ein, die Feier ihrer Vermählung in der wunderschönen Stadt Istanbul, Türkei, mit ihnen zu begehen.",
+            "welcome.text": "Gemeinsam mit ihren Familien laden Abdelhamed und Esraa Sie herzlich ein, die Feier ihrer Vermählung in der wunderschönen Stadt Istanbul, Türkei, mit ihnen zu begehen.",
             "events.title": "Die Feierlichkeiten",
             "events.subtitle": "Programm der Veranstaltungen",
             "events.date": "01. Juli 2027",
@@ -16251,7 +16251,7 @@ BIC/SWIFT: XXXXXXXXXX`,
             "dress.womenDesc": "Formelles Abendkleid",
             "accommodation.title": "Unterkünfte",
             "accommodation.subtitle": "Empfohlene Hotels in der Nähe des Veranstaltungsortes",
-            "accommodation.recommend": "Bitte erwähnen Sie bei der Buchung die Hochzeit von Rosie & Scott, um nach Sonderkonditionen zu fragen.",
+            "accommodation.recommend": "Bitte erwähnen Sie bei der Buchung die Hochzeit von Abdelhamed & Esraa, um nach Sonderkonditionen zu fragen.",
             "accommodation.perNight": "pro Nacht · Doppelzimmer Standard · inkl. Steuern & Frühstück",
             "accommodation.bookingSoon": "Buchungslink folgt in Kürze",
             "accommodation.bookingEmail": "Buchung per E-Mail – Details folgen in Kürze",
@@ -16285,10 +16285,10 @@ Vom Flughafen Sabiha Gökçen (SAW): ca. 1 Stunde`,
             "gifts.title": "Hochzeitsgeschenk",
             "gifts.text": "Ihre Anwesenheit ist unser schönstes Geschenk.",
             "gifts.details": "Sollten Sie uns dennoch mit einem Geschenk beehren wollen, freuen wir uns über einen Geldbeitrag. Bankdaten werden separat mitgeteilt.",
-            "gifts.account1": "Konto — Rosie",
+            "gifts.account1": "Konto — Abdelhamed",
             "gifts.account1details": `IBAN: XXXX XXXX XXXX XXXX XXXX
 BIC/SWIFT: XXXXXXXXXX`,
-            "gifts.account2": "Konto — Scott",
+            "gifts.account2": "Konto — Esraa",
             "gifts.account2details": `IBAN: XXXX XXXX XXXX XXXX XXXX
 BIC/SWIFT: XXXXXXXXXX`,
             "rsvp.title": "Rsvp",
@@ -22126,14 +22126,14 @@ function p5({
             },
             children: [h.jsx("img", {
                 src: h5.url,
-                alt: "Rosie & Scott monogram",
+                alt: "Abdelhamed & Esraa monogram",
                 className: "w-16 md:w-20 h-auto mb-4 select-none pt-[20px]"
             }), h.jsxs("h2", {
                 className: "font-display font-normal md:text-7xl leading-[0.95] mb-5 text-6xl text-primary",
-                children: ["Rosie ", h.jsx("span", {
+                children: ["Abdelhamed ", h.jsx("span", {
                     className: "italic",
                     children: "&"
-                }), " Scott"]
+                }), " Esraa"]
             }), h.jsxs("p", {
                 className: "font-body md:text-xs tracking-[0.2em] uppercase text-primary max-w-[260px] md:max-w-xs leading-snug text-[11px] font-medium",
                 children: ["INVITE YOU TO CELEBRATE ", h.jsx("br", {}), "OUR WEDDING WEEK"]
@@ -31823,8 +31823,8 @@ function BU({
     })
 }
 const tc = {
-    couple_name_1: "Rosie",
-    couple_name_2: "Scott",
+    couple_name_1: "Abdelhamed",
+    couple_name_2: "Esraa",
     wedding_date: "2027-07-01",
     venue_location: "Istanbul, Turkey"
 };
@@ -32314,7 +32314,7 @@ function ZU({
             },
             children: [h.jsx("img", {
                 src: JU.url,
-                alt: "Rosie & Scott monogram",
+                alt: "Abdelhamed & Esraa monogram",
                 className: "w-24 md:w-28 h-auto mx-auto mb-8 pointer-events-none select-none"
             }), h.jsxs("p", {
                 className: "font-display text-5xl md:text-6xl text-foreground mb-4 leading-tight",
@@ -32498,10 +32498,10 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
                         children: "We're getting married"
                     }), h.jsxs("h2", {
                         className: "font-display font-normal text-6xl md:text-7xl leading-[0.95] text-primary [text-shadow:_0_1px_8px_rgba(71,84,58,0.6),_0_0_22px_rgba(71,84,58,0.4)]",
-                        children: ["Rosie ", h.jsx("span", {
+                        children: ["Abdelhamed ", h.jsx("span", {
                             className: "italic",
                             children: "&"
-                        }), " Scott"]
+                        }), " Esraa"]
                     })]
                 })
             })]
@@ -32528,10 +32528,10 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
         version: B9
     },
     vs = {
-        couple_name_1: "Rosie",
-        couple_name_2: "Scott",
-        hero_name_1: "Rosie",
-        hero_name_2: "Scott",
+        couple_name_1: "Abdelhamed",
+        couple_name_2: "Esraa",
+        hero_name_1: "Abdelhamed",
+        hero_name_2: "Esraa",
         wedding_date: "2027-07-01",
         venue_name: "Vaavu Fulidhoo, Maldives",
         venue_address: "Vaavu Fulidhoo, Maldives"
