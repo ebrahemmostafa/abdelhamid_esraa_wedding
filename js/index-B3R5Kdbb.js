@@ -16053,10 +16053,10 @@ function hD(e, t) {
 const pD = {
         en: {
             "hero.subtitle": "We are getting engaged",
-            "hero.date": "01 July 2027",
+            "hero.date": "Sunday 26 July 2026",
             "hero.rsvp": "RSVP",
             "countdown.title": "Countdown",
-            "countdown.until": "Until 01 July 2027",
+            "countdown.until": "Until Sunday 26 July 2026",
             "countdown.days": "Days",
             "countdown.hours": "Hours",
             "countdown.minutes": "Minutes",
@@ -16065,32 +16065,32 @@ const pD = {
             "welcome.text": "Together with their families, Abdelhamed and Esraa request the honour of your presence at the celebration of their marriage in the beautiful city of Istanbul, Turkey.",
             "events.title": "The Celebrations",
             "events.subtitle": "Programme of events",
-            "events.date": "01 July 2027",
+            "events.date": "Sunday 26 July 2026",
             "events.openMaps": "View on Map",
             "events.cruiseLabel": "Welcome Cruise on the Bosphorus",
             "events.cruiseName1": "The Peninsula",
             "events.cruiseName2": "Private Quay",
-            "events.cruiseDate": "28 June 2027",
+            "events.cruiseDate": "Sunday 26 July 2026",
             "events.cruiseTime": "6:30 PM",
             "events.cruiseDetail": "Departing from The Peninsula Private Quay",
             "events.engagementLabel": "Engagement",
             "events.engagementName1": "The Peninsula",
             "events.engagementName2": "Hotel Istanbul",
-            "events.engagementDate": "01 July 2027",
-            "events.engagementTime": "6:00 PM",
+            "events.engagementDate": "Sunday 26 July 2026",
+            "events.engagementTime": "8:00 PM",
             "program.sectionTitle": "Engagement Weekend",
             "program.sectionSubtitle": "Itinerary",
-            "program.sectionDates": "28 June – 01 July 2027",
+            "program.sectionDates": "Sunday 26 July 2026",
             "program.cruiseTitle": "Welcome Cruise",
             "program.cruiseTitleLine2": "on the Bosphorus",
-            "program.cruiseDate": "28 June 2027",
+            "program.cruiseDate": "Sunday 26 July 2026",
             "program.cruiseDesc": "Please join us for cocktails and hors d'œuvres as we sail the Bosphorus",
             "program.cruiseSubdesc": "",
             "program.cruiseDepart": "Departure from The Peninsula Private Quay",
             "program.cruiseCocktails": "Sunset Cocktails & Hors d'Œuvres",
             "program.cruiseArrival": "Arrival at The Peninsula Private Quay",
             "program.engagementTitle": "Engagement",
-            "program.engagementDate": "01 July 2027 · The Peninsula Hotel Istanbul",
+            "program.engagementDate": "Sunday 26 July 2026 · The Peninsula Hotel Istanbul",
             "program.engagementArrival": "Arrival & Welcome Drinks",
             "program.engagementCeremony": "Ceremony",
             "program.engagementBanquet": "Banquet",
@@ -16099,10 +16099,10 @@ const pD = {
             "dress.title": "Dress Code",
             "dress.subtitle": "Black Tie",
             "dress.cruiseTitle": "Welcome Cruise",
-            "dress.cruiseDate": "28th June",
+            "dress.cruiseDate": "26th July",
             "dress.cruiseAttire": "White Cocktail Attire",
             "dress.engagementTitle": "Engagement",
-            "dress.engagementDate": "1st July",
+            "dress.engagementDate": "26th July",
             "dress.engagementAttire": "Black Tie",
             "dress.men": "Gentlemen",
             "dress.menDesc": "Black tie formal attire",
@@ -16117,7 +16117,7 @@ const pD = {
             "info.title": "The Welcome Cruise",
             "info.subtitle": "You are cordially invited to join us for cocktails and hors d'œuvres as we sail the Bosphorus.",
             "info.event1": "Welcome Cruise",
-            "info.event1date": "Monday | 28 June 2027 | 18:30",
+            "info.event1date": "Monday | Sunday 26 July 2026 | 20:00",
             "info.event1location": "The Peninsula Private Quay, Istanbul",
             "info.event2date": "",
             "info.event2location": "",
@@ -16166,8 +16166,8 @@ BIC/SWIFT: XXXXXXXXXX`,
             "rsvp.dietary": "Dietary requirements",
             "rsvp.dietaryPlaceholder": "e.g. vegetarian, allergies, etc.",
             "rsvp.whichEvents": "Which events will you be attending? *",
-            "rsvp.eventCruise": "Welcome Cruise – 28th June",
-            "rsvp.eventEngagement": "Engagement Ceremony & Reception – 1st July",
+            "rsvp.eventCruise": "Welcome Cruise – 26th July",
+            "rsvp.eventEngagement": "Engagement Ceremony & Reception – 26th July",
             "rsvp.foodAllergies": "Dietary requirements / Food allergies",
             "rsvp.foodAllergiesPlaceholder": "e.g. nut allergy, gluten-free, vegetarian...",
             "rsvp.childrenQuestion": "Will any children be accompanying you?",
@@ -16194,10 +16194,10 @@ BIC/SWIFT: XXXXXXXXXX`,
         },
         de: {
             "hero.subtitle": "Wir heiraten",
-            "hero.date": "01. Juli 2027",
+            "hero.date": "Sonntag, 26. Juli 2026",
             "hero.rsvp": "RSVP",
             "countdown.title": "Countdown",
-            "countdown.until": "Bis zum 01. Juli 2027",
+            "countdown.until": "Bis zum Sonntag, 26. Juli 2026",
             "countdown.days": "Tage",
             "countdown.hours": "Stunden",
             "countdown.minutes": "Minuten",
@@ -16206,32 +16206,32 @@ BIC/SWIFT: XXXXXXXXXX`,
             "welcome.text": "Gemeinsam mit ihren Familien laden Abdelhamed und Esraa Sie herzlich ein, die Feier ihrer Vermählung in der wunderschönen Stadt Istanbul, Türkei, mit ihnen zu begehen.",
             "events.title": "Die Feierlichkeiten",
             "events.subtitle": "Programm der Veranstaltungen",
-            "events.date": "01. Juli 2027",
+            "events.date": "Sonntag, 26. Juli 2026",
             "events.openMaps": "Auf Karte anzeigen",
             "events.cruiseLabel": "Willkommensfahrt auf dem Bosporus",
             "events.cruiseName1": "The Peninsula",
             "events.cruiseName2": "Private Quay",
-            "events.cruiseDate": "28. Juni 2027",
-            "events.cruiseTime": "18:30 Uhr",
+            "events.cruiseDate": "Sonntag, 26. Juli 2026",
+            "events.cruiseTime": "20:00 Uhr",
             "events.cruiseDetail": "Abfahrt vom The Peninsula Private Quay",
             "events.engagementLabel": "Verlobung",
             "events.engagementName1": "The Peninsula",
             "events.engagementName2": "Hotel Istanbul",
-            "events.engagementDate": "01. Juli 2027",
-            "events.engagementTime": "18:00 Uhr",
+            "events.engagementDate": "Sonntag, 26. Juli 2026",
+            "events.engagementTime": "20:00 Uhr",
             "program.sectionTitle": "Verlobungswochenende",
             "program.sectionSubtitle": "Ablauf",
-            "program.sectionDates": "28. Juni – 01. Juli 2027",
+            "program.sectionDates": "Sonntag, 26. Juli 2026",
             "program.cruiseTitle": "Willkommensfahrt",
             "program.cruiseTitleLine2": "auf dem Bosporus",
-            "program.cruiseDate": "28. Juni 2027",
+            "program.cruiseDate": "Sonntag, 26. Juli 2026",
             "program.cruiseDesc": "Begleiten Sie uns zu Cocktails und Häppchen auf unserer Fahrt über den Bosporus",
             "program.cruiseSubdesc": "",
             "program.cruiseDepart": "Abfahrt vom The Peninsula Private Quay",
             "program.cruiseCocktails": "Sonnenuntergangs-Cocktails & Häppchen",
             "program.cruiseArrival": "Ankunft am The Peninsula Private Quay",
             "program.engagementTitle": "Verlobung",
-            "program.engagementDate": "01. Juli 2027 · The Peninsula Hotel Istanbul",
+            "program.engagementDate": "Sonntag, 26. Juli 2026 · The Peninsula Hotel Istanbul",
             "program.engagementArrival": "Empfang & Begrüßungsgetränke",
             "program.engagementCeremony": "Trauung",
             "program.engagementBanquet": "Festbankett",
@@ -16243,7 +16243,7 @@ BIC/SWIFT: XXXXXXXXXX`,
             "dress.cruiseDate": "28. Juni",
             "dress.cruiseAttire": "Weiße Cocktail-Garderobe",
             "dress.engagementTitle": "Verlobung",
-            "dress.engagementDate": "01. Juli",
+            "dress.engagementDate": "26. Juli",
             "dress.engagementAttire": "Black Tie",
             "dress.men": "Herren",
             "dress.menDesc": "Formelle Abendgarderobe",
@@ -16258,7 +16258,7 @@ BIC/SWIFT: XXXXXXXXXX`,
             "info.title": "Die Willkommensfahrt",
             "info.subtitle": "Sie sind herzlich eingeladen, bei Cocktails und Häppchen mit uns über den Bosporus zu segeln.",
             "info.event1": "Willkommensfahrt",
-            "info.event1date": "Montag | 28. Juni 2027 | 18:30 Uhr",
+            "info.event1date": "Montag | Sonntag, 26. Juli 2026 | 20:00 Uhr",
             "info.event1location": "The Peninsula Private Quay, Istanbul",
             "info.event2date": "",
             "info.event2location": "",
@@ -16308,7 +16308,7 @@ BIC/SWIFT: XXXXXXXXXX`,
             "rsvp.dietaryPlaceholder": "z. B. vegetarisch, Allergien usw.",
             "rsvp.whichEvents": "An welchen Veranstaltungen werden Sie teilnehmen? *",
             "rsvp.eventCruise": "Willkommensfahrt – 28. Juni",
-            "rsvp.eventEngagement": "Trauung & Empfang – 01. Juli",
+            "rsvp.eventEngagement": "Trauung & Empfang – 26. Juli",
             "rsvp.foodAllergies": "Ernährungsbesonderheiten / Lebensmittelallergien",
             "rsvp.foodAllergiesPlaceholder": "z. B. Nussallergie, glutenfrei, vegetarisch...",
             "rsvp.childrenQuestion": "Werden Kinder Sie begleiten?",
@@ -22151,20 +22151,20 @@ function p5({
                         className: "w-12 h-px bg-primary/80 mb-1"
                     }), h.jsx("span", {
                         className: "font-body text-[11px] md:text-sm tracking-[0.25em] uppercase font-medium",
-                        children: "28 June"
+                        children: "Sunday"
                     }), h.jsx("div", {
                         className: "w-12 h-px bg-primary/80 mt-1"
                     })]
                 }), h.jsx("span", {
                     className: "font-display md:text-5xl font-light leading-none text-5xl text-primary",
-                    children: "2027"
+                    children: "2026"
                 }), h.jsxs("div", {
                     className: "flex flex-col items-center",
                     children: [h.jsx("div", {
                         className: "w-12 h-px bg-primary/80 mb-1"
                     }), h.jsx("span", {
                         className: "font-body text-[11px] md:text-sm tracking-[0.25em] uppercase font-medium",
-                        children: "01 July"
+                        children: "26 July 2026"
                     }), h.jsx("div", {
                         className: "w-12 h-px bg-primary/80 mt-1"
                     })]
@@ -22625,13 +22625,13 @@ function q3() {
     const e = m.useRef(null),
         t = [{
             label: "Welcome Dinner",
-            date: "Fulidhoo Beach · 28 June 2027 · 7.30pm"
+            date: "Fulidhoo Beach · Sunday 26 July 2026 · 8:00 pm"
         }, {
             label: "Engagement Party",
-            date: "Kinan Sentral · 29 June 2027 · 4.30pm"
+            date: "Kinan Sentral · Sunday 26 July 2026 · 8:00 pm"
         }, {
             label: "Engagement Day",
-            date: "Venue to be revealed · 01 July 2027"
+            date: "Venue to be revealed · Sunday 26 July 2026"
         }];
     return h.jsxs("section", {
         ref: e,
@@ -22988,7 +22988,7 @@ const X3 = "59cfe8ac-5463-4f24-bd50-46c0508ad4ee",
     },
     aF = [{
         title: "Welcome Dinner",
-        date: "28th June 2027",
+        date: "26th July 2027",
         attire: "Island Chic",
         palette: [{
             name: "White",
@@ -22996,7 +22996,7 @@ const X3 = "59cfe8ac-5463-4f24-bd50-46c0508ad4ee",
         }]
     }, {
         title: "Engagement Party",
-        date: "29th June 2027",
+        date: "26th July 2027",
         attire: "Tropical Elegance",
         palette: [{
             name: "Sage Green",
@@ -23017,7 +23017,7 @@ const X3 = "59cfe8ac-5463-4f24-bd50-46c0508ad4ee",
         }]
     }, {
         title: "Engagement",
-        date: "1st July 2027",
+        date: "26th July 2027",
         attire: "Soft Coastal Palette",
         palette: [{
             name: "Dusty Rose",
@@ -31659,7 +31659,7 @@ function BU({
     const y = () => {
         const v = `Engagement ${t} & ${n}`,
             w = `Engagement of ${t} and ${n}`,
-            _ = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(v)}&dates=20270628/20270702&location=${encodeURIComponent(s)}&details=${encodeURIComponent(w)}`;
+            _ = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(v)}&dates=20260726/20260727&location=${encodeURIComponent(s)}&details=${encodeURIComponent(w)}`;
         window.open(_, "_blank")
     };
     return e === "no" ? h.jsx("section", {
@@ -31743,7 +31743,7 @@ function BU({
                         children: i("confirm.lookForward")
                     }), h.jsx("p", {
                         className: "text-sage-dark/80 font-body text-base md:text-lg uppercase tracking-wide",
-                        children: "28 June – 01 July 2027"
+                        children: "Sunday 26 July 2026"
                     })]
                 }), h.jsxs(he.p, {
                     initial: {
@@ -31825,7 +31825,7 @@ function BU({
 const tc = {
     couple_name_1: "Abdelhamed",
     couple_name_2: "Esraa",
-    engagement_date: "2027-07-01",
+    engagement_date: "2026-07-26",
     venue_location: "Istanbul, Turkey"
 };
 
@@ -31835,15 +31835,15 @@ function UU() {
         t: e
     } = Xu(), t = [{
         id: "welcome-dinner",
-        label: "Welcome Dinner — 28 June 2027",
+        label: "Welcome Dinner — Sunday 26 July 2026",
         hasAllergies: !0
     }, {
         id: "engagement",
-        label: "Engagement Celebration — 29 June 2027",
+        label: "Engagement Celebration — Sunday 26 July 2026",
         hasAllergies: !0
     }, {
         id: "engagement",
-        label: "Engagement Day — 01 July 2027",
+        label: "Engagement Day — Sunday 26 July 2026",
         hasAllergies: !0
     }], [n, r] = m.useState(!1), [s, i] = m.useState(1), [o, a] = m.useState("no"), [l, c] = m.useState(0), [u, d] = m.useState([]), [f, p] = m.useState([]), [b, g] = m.useState([{
         name: "",
@@ -32523,7 +32523,7 @@ const e9 = "4d9d374a-1997-4ef7-bad6-945ee2e589c7",
         couple_name_2: "Esraa",
         hero_name_1: "Abdelhamed",
         hero_name_2: "Esraa",
-        engagement_date: "2027-07-01",
+        engagement_date: "2026-07-26",
         venue_name: "Vaavu Fulidhoo, Maldives",
         venue_address: "Vaavu Fulidhoo, Maldives"
     },
