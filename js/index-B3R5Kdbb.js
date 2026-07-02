@@ -15812,7 +15812,7 @@ function na(e) {
 
 function tD(e) {
     let {
-        basename: t = "/new_prem6/",
+        basename: t = "/abdelhamid_esraa_wedding/",
         children: n = null,
         location: r,
         navigationType: s = Fr.Pop,
