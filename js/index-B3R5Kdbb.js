@@ -22625,10 +22625,10 @@ function q3() {
     const e = m.useRef(null),
         t = [{
             label: "Engagement Party",
-            date: "VIP HALL The Great Sea Street · Sunday 26 July 2026 · 8:00 pm"
+            date: h.jsxs(h.Fragment, {children: [h.jsx("a", {href: "https://maps.app.goo.gl/btM3xGSjJtN5p6W68?g_st=iw", target: "_blank", style: {textDecoration: "underline"}, children: "VIP HALL The Great Sea Street"}), " · Sunday 26 July 2026 · 8:00 pm"]})
         }, {
             label: "Engagement Day",
-            date: "Venue to be revealed · Sunday 26 July 2026"
+            date: h.jsxs(h.Fragment, {children: [h.jsx("a", {href: "https://maps.app.goo.gl/btM3xGSjJtN5p6W68?g_st=iw", target: "_blank", style: {textDecoration: "underline"}, children: "VIP HALL The Great Sea Street"}), " · Sunday 26 July 2026"]})
         }];
     return h.jsxs("section", {
         ref: e,
