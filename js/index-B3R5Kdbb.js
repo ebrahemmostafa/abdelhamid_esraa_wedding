@@ -22140,9 +22140,9 @@ function p5({
             }), h.jsx("p", {
                 className: "font-body text-[11px] md:text-sm tracking-[0.35em] uppercase text-primary mt-3 font-medium",
                 children: "in"
-            }), h.jsx("p", {
+            }), h.jsx("a", {
                 className: "font-display md:text-4xl text-primary mt-1 text-3xl leading-none",
-                children: "VIP HALL The Great Sea Street"
+                href: "https://maps.app.goo.gl/btM3xGSjJtN5p6W68?g_st=iw", target: "_blank", style: {textDecoration: "underline"}, children: "VIP HALL The Great Sea Street"
             }), h.jsxs("div", {
                 className: "flex items-center justify-center gap-3 mt-3 text-primary",
                 children: [h.jsxs("div", {
@@ -22624,9 +22624,6 @@ const l3 = "2dcf5ad4-79dd-4a9b-89aa-c10ee9239b45",
 function q3() {
     const e = m.useRef(null),
         t = [{
-            label: "Welcome Dinner",
-            date: "VIP HALL The Great Sea Street · Sunday 26 July 2026 · 8:00 pm"
-        }, {
             label: "Engagement Party",
             date: "VIP HALL The Great Sea Street · Sunday 26 July 2026 · 8:00 pm"
         }, {
@@ -22987,14 +22984,6 @@ const X3 = "59cfe8ac-5463-4f24-bd50-46c0508ad4ee",
         version: iF
     },
     aF = [{
-        title: "Welcome Dinner",
-        date: "26th July 2027",
-        attire: "Island Chic",
-        palette: [{
-            name: "White",
-            hex: "#F5F1EA"
-        }]
-    }, {
         title: "Engagement Party",
         date: "26th July 2027",
         attire: "Tropical Elegance",
@@ -23063,66 +23052,7 @@ function lF() {
                 alt: "",
                 loading: "lazy",
                 className: "absolute top-[78%] -translate-y-1/2 -right-16 md:-right-24 w-32 md:w-40 h-auto pointer-events-none select-none z-10"
-            }), h.jsxs(he.div, {
-                initial: {
-                    opacity: 0,
-                    y: 20
-                },
-                whileInView: {
-                    opacity: 1,
-                    y: 0
-                },
-                viewport: {
-                    once: !0
-                },
-                transition: {
-                    duration: .6
-                },
-                children: [h.jsx("h2", {
-                    className: "font-display text-5xl md:text-7xl text-foreground mb-10",
-                    children: "Dress Code"
-                }), h.jsx("div", {
-                    className: "space-y-8",
-                    children: aF.map(e => h.jsxs("div", {
-                        className: "bg-foreground/[0.03] border border-foreground/10 rounded-2xl px-6 py-10 md:px-10 md:py-14",
-                        children: [h.jsx("h3", {
-                            className: "font-display text-4xl md:text-5xl text-foreground mb-1 leading-tight",
-                            children: e.title
-                        }), h.jsx("p", {
-                            className: "font-body text-sm tracking-[0.25em] uppercase text-foreground/50 mb-4",
-                            children: e.date
-                        }), h.jsx("p", {
-                            className: "font-body text-lg tracking-[0.1em] text-foreground",
-                            children: e.attire
-                        }), e.palette && h.jsx("div", {
-                            className: "mt-5 flex justify-center items-start gap-3 flex-nowrap",
-                            children: e.palette.map(t => h.jsxs("div", {
-                                className: "flex flex-col items-center flex-1 min-w-0",
-                                children: ["img" in t && t.img ? h.jsx(ut, {
-                                    src: t.img,
-                                    alt: t.name,
-                                    loading: "lazy",
-                                    className: "w-14 h-14 md:w-16 md:h-16 object-contain pointer-events-none select-none",
-                                    style: "scale" in t && t.scale ? {
-                                        transform: `scale(${t.scale})`
-                                    } : void 0
-                                }) : h.jsx("span", {
-                                    className: "w-14 h-14 md:w-16 md:h-16 rounded-full",
-                                    style: {
-                                        background: `radial-gradient(circle at 35% 30%, #ffffffee 0%, ${t.hex} 55%, ${t.hex}dd 100%)`,
-                                        filter: "blur(0.4px)",
-                                        boxShadow: `inset 0 0 16px ${t.hex}66, inset 0 0 5px ${t.hex}cc, 0 0 0 1px hsl(var(--foreground) / 0.18), 0 2px 6px hsl(var(--foreground) / 0.08)`
-                                    },
-                                    "aria-label": t.name
-                                }), h.jsx("span", {
-                                    className: "font-body text-[9px] md:text-[10px] tracking-[0.12em] uppercase text-foreground/60 mt-2 whitespace-nowrap",
-                                    children: t.name
-                                })]
-                            }, t.name))
                         })]
-                    }, e.title))
-                })]
-            })]
         })
     })
 }
@@ -23152,78 +23082,7 @@ function wF() {
         className: "py-20 md:py-28 px-6 overflow-hidden",
         children: h.jsxs("div", {
             className: "max-w-xl mx-auto text-center",
-            children: [h.jsxs(he.h2, {
-                initial: {
-                    opacity: 0,
-                    y: 20
-                },
-                whileInView: {
-                    opacity: 1,
-                    y: 0
-                },
-                viewport: {
-                    once: !0
-                },
-                transition: {
-                    duration: .6
-                },
-                className: "font-display text-5xl md:text-7xl text-foreground mb-8",
-                children: ["Your ", h.jsx("span", {
-                    className: "script-ornate",
-                    children: "S"
-                }), "tay"]
-            }), h.jsx(he.p, {
-                initial: {
-                    opacity: 0
-                },
-                whileInView: {
-                    opacity: 1
-                },
-                viewport: {
-                    once: !0
-                },
-                transition: {
-                    duration: .6,
-                    delay: .1
-                },
-                className: "font-body text-foreground/70 leading-relaxed max-w-md mx-auto mb-10",
-                children: "Transportation and accommodation throughout the engagement celebrations will be lovingly hosted by the couple."
-            }), h.jsxs(he.div, {
-                initial: {
-                    opacity: 0,
-                    y: 20
-                },
-                whileInView: {
-                    opacity: 1,
-                    y: 0
-                },
-                viewport: {
-                    once: !0
-                },
-                transition: {
-                    duration: .6,
-                    delay: .2
-                },
-                children: [h.jsx("p", {
-                    className: "font-body text-sm tracking-[0.25em] uppercase text-foreground/50 mb-3",
-                    children: "Guests will be staying at"
-                }), h.jsxs("h3", {
-                    className: "font-display text-4xl md:text-5xl text-foreground leading-tight",
-                    children: ["Kinan ", h.jsx("span", {
-                        className: "script-ornate",
-                        children: "S"
-                    }), "entral"]
-                }), h.jsx("p", {
-                    className: "font-body text-foreground/60 italic tracking-wide mt-2",
-                    children: "VIP HALL The Great Sea Street"
-                }), h.jsx(ut, {
-                    src: yF.url,
-                    alt: "Kinan Hotels illustration",
-                    loading: "lazy",
-                    className: "w-full max-w-[320px] mx-auto h-auto mt-8 select-none",
-                    draggable: !1
-                })]
-            })]
+            children: [null, null, null]
         })
     })
 }
@@ -31834,10 +31693,6 @@ function UU() {
     const {
         t: e
     } = Xu(), t = [{
-        id: "welcome-dinner",
-        label: "Welcome Dinner — Sunday 26 July 2026",
-        hasAllergies: !0
-    }, {
         id: "engagement",
         label: "Engagement Celebration — Sunday 26 July 2026",
         hasAllergies: !0
@@ -32020,28 +31875,7 @@ function UU() {
                             placeholder: e("rsvp.enterName")
                         })]
                     }) : h.jsxs(h.Fragment, {
-                        children: [h.jsxs("div", {
-                            className: "space-y-3",
-                            children: [h.jsx(Xe, {
-                                className: "text-foreground font-body text-base tracking-wide",
-                                children: e("rsvp.whichEvents")
-                            }), h.jsx("div", {
-                                className: "space-y-2",
-                                children: t.map(R => h.jsxs("div", {
-                                    className: "flex items-center space-x-3",
-                                    children: [h.jsx(RT, {
-                                        id: `event-${R.id}`,
-                                        checked: f.includes(R.id),
-                                        onCheckedChange: () => _(R.id),
-                                        className: "border-foreground/30 data-[state=checked]:bg-foreground data-[state=checked]:border-foreground"
-                                    }), h.jsx(Xe, {
-                                        htmlFor: `event-${R.id}`,
-                                        className: "cursor-pointer text-foreground font-body text-base",
-                                        children: R.label
-                                    })]
-                                }, R.id))
-                            })]
-                        }), h.jsxs("div", {
+                        children: [ h.jsxs("div", {
                             className: "space-y-4",
                             children: [h.jsxs("div", {
                                 className: "flex items-center gap-2",
@@ -35374,9 +35208,6 @@ function G7() {
     });
     const j = (e == null ? void 0 : e.filter(N => N.attendance === "yes")) || [],
         D = [{
-            id: "welcome-dinner",
-            label: "Welcome Dinner — 28 June"
-        }, {
             id: "engagement",
             label: "Engagement Celebration — 29 June"
         }, {
